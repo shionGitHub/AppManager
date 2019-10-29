@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Android App管理器</string>
+    <string name="transition_app_icon">App Icon Transition</string>
+    <string name="dialog_run">打开</string>
+    <string name="dialog_uninstall">卸载</string>
+    <string name="dialog_extract">提取</string>
+    <string name="dialog_cache">清除缓存</string>
+    <string name="dialog_clear_data">清除数据</string>
+    <string name="button_share">分享 APK</string>
+    <string name="button_extract">提取 Apk</string>
+    <string name="dialog_root_required_description">你的设备必须已 ROOT 并授予应用 ROOT 权限。如果你曾经拒绝过访问权限：前往超级用户（授权管理）应用，并授予 ML 管理器 ROOT 访问权限。</string>
+    <string name="dialog_saved_description">\"%s\" APK 已经保存在\"MLManager\" 目录</string>
+    <string name="dialog_extract_fail_description">无法提取此 APK，请尝试重启你的设备。</string>
+    <string name="dialog_root_required">需要 ROOT</string>
+    <string name="send_to">发送“%s”，使用</string>
+    <string name="copied_clipboard">已复制到剪切板</string>
+    <string name="dialog_cannot_open">%s 无法打开，因为其已被隐藏。请使其显示后再尝试打开此应用。</string>
+    <string name="search">搜索​​​​</string>
+
+</resources>
